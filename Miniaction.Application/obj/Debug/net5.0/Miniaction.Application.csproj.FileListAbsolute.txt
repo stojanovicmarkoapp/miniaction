@@ -1,0 +1,17 @@
+D:\Miniaction\Miniaction.Application\bin\Debug\net5.0\Miniaction.Application.deps.json
+D:\Miniaction\Miniaction.Application\bin\Debug\net5.0\Miniaction.Application.dll
+D:\Miniaction\Miniaction.Application\bin\Debug\net5.0\Miniaction.Application.pdb
+D:\Miniaction\Miniaction.Application\obj\Debug\net5.0\Miniaction.Application.csproj.AssemblyReference.cache
+D:\Miniaction\Miniaction.Application\obj\Debug\net5.0\Miniaction.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Miniaction\Miniaction.Application\obj\Debug\net5.0\Miniaction.Application.AssemblyInfoInputs.cache
+D:\Miniaction\Miniaction.Application\obj\Debug\net5.0\Miniaction.Application.AssemblyInfo.cs
+D:\Miniaction\Miniaction.Application\obj\Debug\net5.0\Miniaction.Application.csproj.CoreCompileInputs.cache
+D:\Miniaction\Miniaction.Application\obj\Debug\net5.0\Miniaction.Application.dll
+D:\Miniaction\Miniaction.Application\obj\Debug\net5.0\refint\Miniaction.Application.dll
+D:\Miniaction\Miniaction.Application\obj\Debug\net5.0\Miniaction.Application.pdb
+D:\Miniaction\Miniaction.Application\obj\Debug\net5.0\ref\Miniaction.Application.dll
+D:\Miniaction\Miniaction.Application\bin\Debug\net5.0\Miniaction.DataAccess.dll
+D:\Miniaction\Miniaction.Application\bin\Debug\net5.0\Miniaction.Domain.dll
+D:\Miniaction\Miniaction.Application\bin\Debug\net5.0\Miniaction.DataAccess.pdb
+D:\Miniaction\Miniaction.Application\bin\Debug\net5.0\Miniaction.Domain.pdb
+D:\Miniaction\Miniaction.Application\obj\Debug\net5.0\Miniaction.Application.csproj.CopyComplete
